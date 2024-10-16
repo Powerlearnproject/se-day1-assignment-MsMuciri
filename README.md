@@ -4,6 +4,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
+--Question 1.1
 Explain what software engineering is and discuss its importance in the technology industry.
 
 Software engineering is the discipline of applying engineering principles to the design, development, testing, and maintenance of software systems. Its significance in the tech space includes:
@@ -13,6 +14,7 @@ Software engineering is the discipline of applying engineering principles to the
 3. Scalability: Facilitates the creation of software that can handle increasing loads and evolving requirements.
 4. Maintenance: Enables systematic updates and bug fixes, ensuring long-term sustainability and adaptability of software systems. 
 
+--Question 1.2
 Overall, software engineering enhances the reliability and effectiveness of technology solutions, driving innovation and efficiency in the tech industry.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
@@ -22,6 +24,7 @@ Identify and describe at least three key milestones in the evolution of software
 
 3. Agile Methodologies (2001): The Agile Manifesto was published, emphasizing iterative development, collaboration, and responsiveness to change. This milestone revolutionized software engineering by promoting adaptive planning, early delivery, and continuous improvement, leading to more flexible and customer-centric development practices.
 
+--Question 1.3
 List and briefly explain the phases of the Software Development Life Cycle.
 
 The phases of a software development life cycle (SDLC) are:
@@ -34,12 +37,14 @@ The phases of a software development life cycle (SDLC) are:
 6. Maintenance: Provide ongoing support and updates to fix issues, improve functionality, and adapt to changing needs.
 
    
+--Question 1.4
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 The Waterfall methodology is a sequential and linear approach to software development, characterized by distinct phases: requirements analysis, design, implementation, testing, and deployment. This method is advantageous for projects with well-defined and stable requirements, providing a clear structure and making progress management straightforward. However, it is less flexible in accommodating changes and may encounter significant issues if problems are identified late in the development process. In Africa, the Waterfall approach might be particularly suitable for government infrastructure projects with fixed requirements and long timelines, such as the development of a national data management system. The structured nature of Waterfall helps in adhering to strict schedules and regulatory requirements.
 
 In contrast, the Agile methodology embraces an iterative and incremental approach, allowing for flexible and ongoing adaptation to changing requirements. Agile practices emphasize frequent delivery of working software, continuous feedback, and close collaboration with stakeholders. This approach is well-suited for projects where requirements are expected to evolve or where rapid adjustments are needed. For example, a startup in Africa developing a mobile app for local markets could benefit from Agile’s iterative cycles, enabling the team to refine the product based on user feedback and changing needs. Agile’s flexibility supports continuous improvement and adaptation, which is crucial in dynamic and fast-moving environments.
 
+--Question 1.5
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 A software developer is responsible for designing, coding, and implementing software solutions based on project requirements. They write and maintain the source code, debug and troubleshoot issues, and ensure the software functions correctly and efficiently. Developers work closely with other team members to integrate their code with existing systems and follow best practices for coding standards and documentation.
@@ -48,6 +53,7 @@ A Quality Assurance (QA) engineer focuses on ensuring that the software meets qu
 
 A project manager oversees the planning, execution, and delivery of software projects. They coordinate between teams, manage project timelines, allocate resources, and ensure that the project stays within scope and budget. Project managers are responsible for setting milestones, tracking progress, mitigating risks, and communicating with stakeholders to align project goals with business objectives and client expectations.
 
+--Question 1.6
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 When it comes to challenges software developers face, there are a few key issues and effective strategies to address them.
@@ -59,6 +65,7 @@ Another significant challenge is dealing with technical debt, which arises from 
 Finally, effective communication is crucial. Poor communication can lead to misunderstandings and project delays. To improve communication, use collaboration tools like Slack for real-time discussions and Jira for project tracking. Regular meetings and clear documentation also help keep everyone on the same page and address potential issues promptly. Daily stand-ups and status updates can ensure that team members are aligned and informed.
 
 
+--Question 1.7
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 In software engineering, various types of testing play crucial roles in ensuring software quality. Here’s a brief overview of unit, integration, system, and acceptance testing, along with their importance:
@@ -76,10 +83,12 @@ Each type of testing plays a distinct role in the software development process. 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
+--Question 2.1
 Define prompt engineering and discuss its importance in interacting with AI models.
 
 Prompt engineering involves designing and refining the input prompts given to AI models to generate accurate, relevant, and useful responses. By carefully crafting the wording, structure, and context of these prompts, users can significantly improve the accuracy and performance of AI interactions. Effective prompt engineering helps reduce ambiguity, optimize the model's output by leveraging its strengths, and minimize biases and errors. This process ensures that AI models produce more precise and contextually appropriate responses, ultimately enhancing the overall quality of interactions with the technology.
 
+--Question 2.2
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 **Vague Prompt:**
